@@ -1,0 +1,4 @@
+/ (root)
+ ├── main.py              # kod bota
+ ├── requirements.txt     # biblioteki Pythona
+ └── Procfile             # plik startowy dla Railway
